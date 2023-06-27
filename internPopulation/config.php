@@ -3,7 +3,7 @@
 $db_host = 'sql12.freemysqlhosting.net';
 $db_username = 'sql12629071';
 $db_password = 'yDyj1AEbXP';
-$db_name = 'internpopulationdb';
+$db_name = 'sql12629071';
 
 //Create connection and select DB
 $conn = mysqli_connect($db_host, $db_username, $db_password, $db_name);
